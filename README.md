@@ -1,4 +1,4 @@
-![logo](![image](https://user-images.githubusercontent.com/108810456/206465253-19d8e820-e0dc-4f07-9eea-cc65af94e33c.png)
+![image](https://user-images.githubusercontent.com/108810456/206465253-19d8e820-e0dc-4f07-9eea-cc65af94e33c.png)
 <h1 align="center">Hi 👋, I'm Mani chandan</h1>
 <h3 align="center">A passionate Data science Engineer from India</h3>
 
