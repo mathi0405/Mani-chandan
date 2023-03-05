@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/manicha93212193" target="blank"><img src="https://img.shields.io/twitter/follow/manicha93212193?logo=twitter&style=for-the-badge" alt="manicha93212193" /></a> </p>
 
-- 🔭 I’m currently working on **Adversarial attack on Machine learning algorithms**
+- 🔭 I’m currently working on **Text Generation from Knowledge Graphs with Graph Transformers**
 
 - 🌱 I’m currently learning **MLOPS and Deep learning**
 
